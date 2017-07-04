@@ -1,0 +1,21 @@
+{
+  "name": "cors-light",
+  "version": "1.0.0",
+  "description": "middleware that makes sure your requests are \"Cold Certified\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "cors"
+  ],
+  "author": "bstilwell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-unit": "^1.1.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
